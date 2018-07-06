@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../APPday04/.idea/APPday04.iml" filepath="$PROJECT_DIR$/../APPday04/.idea/APPday04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../APPday07/.idea/APPday07.iml" filepath="$PROJECT_DIR$/../APPday07/.idea/APPday07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Appday08.iml" filepath="$PROJECT_DIR$/.idea/Appday08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appday05/.idea/appday05.iml" filepath="$PROJECT_DIR$/../appday05/.idea/appday05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appday06/.idea/appday06.iml" filepath="$PROJECT_DIR$/../appday06/.idea/appday06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appday06_1/.idea/appday06_1.iml" filepath="$PROJECT_DIR$/../appday06_1/.idea/appday06_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../APPday01/.idea/yidongxiangmu.iml" filepath="$PROJECT_DIR$/../APPday01/.idea/yidongxiangmu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../APPday02/.idea/yidongxiangmuday02.iml" filepath="$PROJECT_DIR$/../APPday02/.idea/yidongxiangmuday02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../APPday03/.idea/yidongxiangmuday03.iml" filepath="$PROJECT_DIR$/../APPday03/.idea/yidongxiangmuday03.iml" />
+    </modules>
+  </component>
+</project>
